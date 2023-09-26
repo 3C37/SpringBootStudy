@@ -1,4 +1,4 @@
-# SpringBootStudy
+# Spring_Boot_Study
 
 
 스프링부트 스터디 입니다.
