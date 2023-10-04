@@ -22,4 +22,4 @@
 
 ### 2주차 (23.10.04)
 * Builer 패턴 정리 : [Builder 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12802177/Builder.pptx)
-* Factory 패턴 정리 : (https://github.com/3C37/Spring_Boot_Study/issues/2)
+* Factory 패턴 정리 : [팩토리 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/issues/2#issue-1925893141)
