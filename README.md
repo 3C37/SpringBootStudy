@@ -21,4 +21,4 @@
 * 서버간 통신, 레이어드 아키텍처, 디자인 패턴, REST 등의 개념 및 용어 정리
 
 ### 2주차 (23.10.04)
-* Builer 패턴 [Builder 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12802177/Builder.pptx)
+* Builer 패턴 정리 : [Builder 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12802177/Builder.pptx)
