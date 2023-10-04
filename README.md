@@ -20,3 +20,5 @@
 * 스프링 프레임워크와 스프링 부트 주요 개념 정리
 * 서버간 통신, 레이어드 아키텍처, 디자인 패턴, REST 등의 개념 및 용어 정리
 
+### 2주차 (23.10.04)
+* Builer 패턴 [Builder 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12802177/Builder.pptx)
