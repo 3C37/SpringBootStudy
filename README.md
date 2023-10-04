@@ -21,5 +21,8 @@
 * 서버간 통신, 레이어드 아키텍처, 디자인 패턴, REST 등의 개념 및 용어 정리
 
 ### 2주차 (23.10.04)
-* Builer 패턴 정리 : [Builder 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12802177/Builder.pptx)
-* Factory 패턴 정리 : [팩토리 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/issues/2#issue-1925893141)
+* 디자인 패턴 정리
+  * Builer 패턴 정리 : [Builder 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12802177/Builder.pptx)
+  * Factory 패턴 정리 : [팩토리 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/issues/2#issue-1925893141)
+* Spring 환경 구성
+* GET API 만들기
