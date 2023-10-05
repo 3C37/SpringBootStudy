@@ -6,7 +6,7 @@
 
 # 멤버
 * 한두호(<a href="https://github.com/3C37">GitHub</a>/<a href="https://3c37.tistory.com/">Blog</a>)
-* 장영훈(<a href="https://github.com/JangYeonghun">GitHub</a>)
+* 장영훈(<a href="https://github.com/JangYeonghun">GitHub</a>/<a href="https://blog.naver.com/gnsdudwkd">Blog</a>)
 
 # 스터디 방식
 
