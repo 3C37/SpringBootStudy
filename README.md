@@ -26,3 +26,7 @@
   * Factory 패턴 정리 : [팩토리 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/issues/2#issue-1925893141)
 * Spring 환경 구성
 * GET API 만들기
+
+### 3주차 (23.10.11)
+* 디자인 패턴 정리
+ * Prototype 패턴 정리 : [Prototype 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12867505/Prototype.pptx)
