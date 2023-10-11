@@ -25,9 +25,10 @@
   * Builer 패턴 정리 : [Builder 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12802177/Builder.pptx)
   * Factory 패턴 정리 : [팩토리 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/issues/2#issue-1925893141)
 * Spring 환경 구성
-* GET API 만들기
+* GET API 구현
 
 ### 3주차 (23.10.11)
 * 디자인 패턴 정리
   * Prototype 패턴 정리 : [Prototype 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12867505/Prototype.pptx)
   * Singleton 패턴 정리 : [Singleton 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/issues/5#issue-1937335730)
+* POST API 구현
