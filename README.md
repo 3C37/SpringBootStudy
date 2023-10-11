@@ -30,3 +30,4 @@
 ### 3주차 (23.10.11)
 * 디자인 패턴 정리
   * Prototype 패턴 정리 : [Prototype 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12867505/Prototype.pptx)
+  * Singleton 패턴 정리 : [Singleton 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/issues/5#issue-1937335730)
