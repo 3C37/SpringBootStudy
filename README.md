@@ -33,5 +33,5 @@
   * Singleton 패턴 정리 : [Singleton 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/issues/5#issue-1937335730)
 * POST API 구현
 
-* ### 4주차 (23.10.17)
+### 4주차 (23.10.17)
   * PUT API 구현
