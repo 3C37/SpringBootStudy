@@ -11,7 +11,7 @@
 # 스터디 방식
 
 
-* 매주 월, 화, 수 18:30 대면 진행
+* 18:30 대면 진행
 * 활용 도서 : <a href="https://product.kyobobook.co.kr/detail/S000061352140">스프링부트 핵심 가이드</a>
 
 
@@ -33,5 +33,10 @@
   * Singleton 패턴 정리 : [Singleton 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/issues/5#issue-1937335730)
 * POST API 구현
 
-### 4주차 (23.10.17)
+### 4주차 (23.10.17, 2023.10.19)
   * PUT API 구현
+  * DELETE API 구현
+  * API 명세 관리(Swagger)
+  * 디자인 패턴 정리
+    * [Adapter 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/13041989/Adapter.pptx)
+
