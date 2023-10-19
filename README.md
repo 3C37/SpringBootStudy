@@ -39,4 +39,5 @@
   * API 명세 관리(Swagger)
   * 디자인 패턴 정리
     * [Adapter 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/13041989/Adapter.pptx)
+    * [브릿지 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/files/13041996/default.pdf)
 
