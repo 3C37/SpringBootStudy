@@ -40,4 +40,9 @@
   * 디자인 패턴 정리
     * [Adapter 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/13041989/Adapter.pptx)
     * [브릿지 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/files/13041996/default.pdf)
-
+    * 
+### 5주차 (23.10.23, 23.10.25)
+  * 디자인 패턴 정리
+      * [Composite 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/13164625/Composite.pptx)
+  * MariaDB 설치
+  * ORM, 하이버네이트, JPA 개념정리
