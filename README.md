@@ -16,24 +16,24 @@
 
 
 # 스터디 진행 상황
-### 1주차 (23.09.26 ~ 23.09.26)
+### 1회차
 * 스프링 프레임워크와 스프링 부트 주요 개념 정리
 * 서버간 통신, 레이어드 아키텍처, 디자인 패턴, REST 등의 개념 및 용어 정리
 
-### 2주차 (23.10.04)
+### 2회차
 * 디자인 패턴 정리
   * Builer 패턴 정리 : [Builder 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12802177/Builder.pptx)
   * Factory 패턴 정리 : [팩토리 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/issues/2#issue-1925893141)
 * Spring 환경 구성
 * GET API 구현
 
-### 3주차 (23.10.11)
+### 3회차
 * 디자인 패턴 정리
   * Prototype 패턴 정리 : [Prototype 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/12867505/Prototype.pptx)
   * Singleton 패턴 정리 : [Singleton 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/issues/5#issue-1937335730)
 * POST API 구현
 
-### 4주차 (23.10.17, 2023.10.19)
+### 4회차
   * PUT API 구현
   * DELETE API 구현
   * API 명세 관리(Swagger)
@@ -41,7 +41,7 @@
     * [Adapter 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/13041989/Adapter.pptx)
     * [브릿지 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/files/13041996/default.pdf)
     * 
-### 5주차 (23.10.23, 23.10.25)
+### 5회차
   * 디자인 패턴 정리
       * [Composite 패턴.pptx](https://github.com/3C37/Spring_Boot_Study/files/13164625/Composite.pptx)
       * [데코레이터 패턴.pdf](https://github.com/3C37/Spring_Boot_Study/files/13164662/default.pdf)
